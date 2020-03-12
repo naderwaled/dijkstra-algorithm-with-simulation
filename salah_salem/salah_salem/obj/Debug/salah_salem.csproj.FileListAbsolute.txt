@@ -1,0 +1,8 @@
+c:\users\nader\documents\visual studio 2017\Projects\salah_salem\salah_salem\bin\Debug\salah_salem.exe.config
+c:\users\nader\documents\visual studio 2017\Projects\salah_salem\salah_salem\bin\Debug\salah_salem.exe
+c:\users\nader\documents\visual studio 2017\Projects\salah_salem\salah_salem\bin\Debug\salah_salem.pdb
+c:\users\nader\documents\visual studio 2017\Projects\salah_salem\salah_salem\obj\Debug\salah_salem.Form1.resources
+c:\users\nader\documents\visual studio 2017\Projects\salah_salem\salah_salem\obj\Debug\salah_salem.Properties.Resources.resources
+c:\users\nader\documents\visual studio 2017\Projects\salah_salem\salah_salem\obj\Debug\salah_salem.csproj.GenerateResource.Cache
+c:\users\nader\documents\visual studio 2017\Projects\salah_salem\salah_salem\obj\Debug\salah_salem.exe
+c:\users\nader\documents\visual studio 2017\Projects\salah_salem\salah_salem\obj\Debug\salah_salem.pdb
